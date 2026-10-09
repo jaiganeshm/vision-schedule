@@ -37,9 +37,8 @@ const SCHEDULE = {
       time:    "7:30 – 9:00 AM PDT",
       timeIST: "8:00 – 9:30 PM IST",
       subject: "SOD",
-      teacher: "TBD",
+      teacher: "Prof. Radj",
       year:    "2",
-      note:    "📋 Teacher to be confirmed",
     },
   ],
 
