@@ -39,6 +39,7 @@ const SCHEDULE = {
       subject: "SOD",
       teacher: "Prof. Radj",
       year:    "2",
+      note:    "✨ Special session",
     },
   ],
 
