@@ -75,6 +75,23 @@ nav {
   color: var(--muted);
   letter-spacing: 0.04em;
 }
+.refresh-btn {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 0.4rem 1rem;
+  border-radius: 50px;
+  border: 1.5px solid var(--cream-dark);
+  background: var(--white);
+  color: var(--muted);
+  cursor: pointer;
+  transition: var(--trans);
+  letter-spacing: 0.03em;
+}
+.refresh-btn:hover {
+  border-color: var(--saffron);
+  color: var(--saffron);
+}
 
 /* ── HERO ───────────────────────────────────────────────── */
 .hero {
