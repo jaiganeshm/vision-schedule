@@ -15,7 +15,7 @@
 
 const SCHEDULE = {
 
-  weekLabel: "Oct 10 & 11, 2026",
+  weekLabel: "Oct 17 & 18, 2026",
 
   saturday: [
     {
@@ -31,24 +31,22 @@ const SCHEDULE = {
       subject: "ANLM",
       teacher: "Prof. Karthikeyan",
       year:    "1",
-      note:    "⏰ Timing changed back to 8:00 AM",
     },
     {
       time:    "7:30 – 9:00 AM PDT",
       timeIST: "8:00 – 9:30 PM IST",
       subject: "SOD",
-      teacher: "Prof. Radj",
+      teacher: "Prof. Raj Sarangapani",
       year:    "2",
-      note:    "✨ Special session",
     },
   ],
 
   sunday: [
     {
-      time:    "6:00 – 7:00 AM PDT",
-      timeIST: "6:30 – 7:30 PM IST",
-      subject: "SPE",
-      teacher: "Prof. Veera",
+      time:    "6:15 – 7:15 AM PDT",
+      timeIST: "6:45 – 7:45 PM IST",
+      subject: "Meditation",
+      teacher: "Prof. Radj Codandaramane",
       year:    "both",
     },
     {
@@ -62,9 +60,8 @@ const SCHEDULE = {
       time:    "7:30 – 9:00 AM PDT",
       timeIST: "8:00 – 9:30 PM IST",
       subject: "WCL",
-      teacher: "Prof. Karthikeyan",
+      teacher: "Prof. Dhanasekar",
       year:    "2",
-      note:    "✨ Special session",
     },
   ],
 
