@@ -15,7 +15,7 @@
 
 const SCHEDULE = {
 
-  weekLabel: "Oct 17 & 18, 2026",
+  weekLabel: "Oct 24 & 25, 2026",
 
   saturday: [
     {
@@ -29,7 +29,7 @@ const SCHEDULE = {
       time:    "8:00 – 9:30 AM PDT",
       timeIST: "8:30 – 10:00 PM IST",
       subject: "ANLM",
-      teacher: "Prof. Karthikeyan",
+      teacher: "Prof. Hariharan",
       year:    "1",
     },
     {
@@ -53,7 +53,7 @@ const SCHEDULE = {
       time:    "7:30 – 9:00 AM PDT",
       timeIST: "8:00 – 9:30 PM IST",
       subject: "PH",
-      teacher: "Prof. Meena",
+      teacher: "Classes Cancelled",
       year:    "1",
     },
     {
@@ -91,7 +91,7 @@ const SCHEDULE = {
             ${s.timeIST ? `<span class="time-ist">${s.timeIST}</span>` : ''}
           </div>
           <div class="sched-subject">${s.subject}</div>
-          <div class="sched-teacher${s.teacher === 'TBD' ? ' tbd' : ''}">${s.teacher}</div>
+          <div class="sched-teacher${s.teacher === 'TBD' ? ' tbd' : s.teacher === 'Classes Cancelled' ? ' cancelled' : ''}">${s.teacher}</div>
           <div class="sched-year">${yearBadge(s.year)}</div>
           ${s.note ? `<div class="sched-note">${s.note}</div>` : ''}
         </div>`)

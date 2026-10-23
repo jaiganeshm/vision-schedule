@@ -259,6 +259,11 @@ nav {
   color: var(--muted);
   font-style: italic;
 }
+.sched-teacher.cancelled {
+  color: #c0392b;
+  font-weight: 600;
+  font-style: italic;
+}
 .sched-year { display: flex; justify-content: flex-end; }
 
 /* ── BADGES ─────────────────────────────────────────────── */
