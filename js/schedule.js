@@ -15,21 +15,21 @@
 
 const SCHEDULE = {
 
-  weekLabel: "Oct 24 & 25, 2026",
+  weekLabel: "Oct 31 & Nov 1, 2026",
 
   saturday: [
     {
-      time:    "6:00 – 7:00 AM PDT",
-      timeIST: "6:30 – 7:30 PM IST",
-      subject: "SPE",
-      teacher: "Prof. Veera",
+      time:    "6:30 – 7:00 AM PDT",
+      timeIST: "7:00 – 7:30 PM IST",
+      subject: "Meditation",
+      teacher: "Prof. Preetha",
       year:    "both",
     },
     {
       time:    "8:00 – 9:30 AM PDT",
       timeIST: "8:30 – 10:00 PM IST",
       subject: "ANLM",
-      teacher: "Prof. Hariharan",
+      teacher: "Prof. Karthikeyan",
       year:    "1",
     },
     {
@@ -43,17 +43,17 @@ const SCHEDULE = {
 
   sunday: [
     {
-      time:    "6:15 – 7:15 AM PDT",
-      timeIST: "6:45 – 7:45 PM IST",
+      time:    "6:30 – 7:00 AM PDT",
+      timeIST: "7:00 – 7:30 PM IST",
       subject: "Meditation",
-      teacher: "Prof. Radj Codandaramane",
+      teacher: "TBD",
       year:    "both",
     },
     {
       time:    "7:30 – 9:00 AM PDT",
       timeIST: "8:00 – 9:30 PM IST",
       subject: "PH",
-      teacher: "Classes Cancelled",
+      teacher: "Prof. Meena",
       year:    "1",
     },
     {
