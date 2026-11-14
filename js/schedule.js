@@ -15,50 +15,50 @@
 
 const SCHEDULE = {
 
-  weekLabel: "Oct 31 & Nov 1, 2026",
+  weekLabel: "Nov 14 & 15, 2026",
 
   saturday: [
     {
-      time:    "6:30 – 7:00 AM PDT",
-      timeIST: "7:00 – 7:30 PM IST",
+      time:    "6:30 – 7:00 AM PST",
+      timeIST: "8:00 – 8:30 PM IST",
       subject: "Meditation",
       teacher: "Prof. Preetha",
       year:    "both",
     },
     {
-      time:    "8:00 – 9:30 AM PDT",
-      timeIST: "8:30 – 10:00 PM IST",
+      time:    "8:00 – 9:30 AM PST",
+      timeIST: "9:30 – 11:00 PM IST",
       subject: "ANLM",
       teacher: "Prof. Karthikeyan",
       year:    "1",
     },
     {
-      time:    "7:30 – 9:00 AM PDT",
-      timeIST: "8:00 – 9:30 PM IST",
+      time:    "7:30 – 9:00 AM PST",
+      timeIST: "9:00 – 10:30 PM IST",
       subject: "SOD",
-      teacher: "Prof. Raj Sarangapani",
+      teacher: "Classes Cancelled",
       year:    "2",
     },
   ],
 
   sunday: [
     {
-      time:    "6:30 – 7:00 AM PDT",
-      timeIST: "7:00 – 7:30 PM IST",
+      time:    "6:30 – 7:00 AM PST",
+      timeIST: "8:00 – 8:30 PM IST",
       subject: "Meditation",
-      teacher: "TBD",
+      teacher: "Prof. Jai",
       year:    "both",
     },
     {
-      time:    "7:30 – 9:00 AM PDT",
-      timeIST: "8:00 – 9:30 PM IST",
+      time:    "7:30 – 9:00 AM PST",
+      timeIST: "9:00 – 10:30 PM IST",
       subject: "PH",
       teacher: "Prof. Meena",
       year:    "1",
     },
     {
-      time:    "7:30 – 9:00 AM PDT",
-      timeIST: "8:00 – 9:30 PM IST",
+      time:    "7:30 – 9:00 AM PST",
+      timeIST: "9:00 – 10:30 PM IST",
       subject: "WCL",
       teacher: "Prof. Dhanasekar",
       year:    "2",
