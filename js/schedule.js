@@ -15,7 +15,7 @@
 
 const SCHEDULE = {
 
-  weekLabel: "Nov 14 & 15, 2026",
+  weekLabel: "Nov 21 & 22, 2026",
 
   saturday: [
     {
@@ -36,7 +36,7 @@ const SCHEDULE = {
       time:    "7:30 – 9:00 AM PST",
       timeIST: "9:00 – 10:30 PM IST",
       subject: "SOD",
-      teacher: "Classes Cancelled",
+      teacher: "Prof. Raj Sarangapani",
       year:    "2",
     },
   ],
@@ -46,7 +46,7 @@ const SCHEDULE = {
       time:    "6:30 – 7:00 AM PST",
       timeIST: "8:00 – 8:30 PM IST",
       subject: "Meditation",
-      teacher: "Prof. Jai",
+      teacher: "TBD",
       year:    "both",
     },
     {
