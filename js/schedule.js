@@ -19,8 +19,8 @@ const SCHEDULE = {
 
   saturday: [
     {
-      time:    "6:30 – 7:00 AM PST",
-      timeIST: "8:00 – 8:30 PM IST",
+      time:    "6:15 – 7:00 AM PST",
+      timeIST: "7:45 – 8:30 PM IST",
       subject: "Meditation",
       teacher: "Prof. Preetha",
       year:    "both",
